@@ -1,4 +1,4 @@
-package com.example.studentmanager.service; 
+package com.test.studentmanager.service; 
   
 import com.example.studentmanager.model.Student; 
 import com.example.studentmanager.repository.StudentRepository; 
